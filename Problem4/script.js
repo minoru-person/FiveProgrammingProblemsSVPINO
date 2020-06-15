@@ -1,8 +1,8 @@
 function problemFour(array1){
 
-  // Convert Array to strings for comparison purposes    
-    array1 = array1.toString();
-    array1 = array1.split(",");
+// Convert Array to strings for comparison purposes    
+	array1 = array1.toString();
+	array1 = array1.split(",");
 
 // Compare the "sum" of the two arrays in order and reversed. 
 // Switch accordingly to make the biggest "sum".
